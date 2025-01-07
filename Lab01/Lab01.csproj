@@ -84,7 +84,48 @@
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="DangKyThongTin.aspx" />
+    <Content Include="DonDatHang.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="Images\Add.gif" />
+    <Content Include="Images\AddB.gif" />
+    <Content Include="Images\Article.gif" />
+    <Content Include="Images\Cancel.gif" />
+    <Content Include="Images\delete.gif" />
+    <Content Include="Images\disk.gif" />
+    <Content Include="Images\dn.gif" />
+    <Content Include="Images\edit.gif" />
+    <Content Include="Images\email.gif" />
+    <Content Include="Images\Function.gif" />
+    <Content Include="Images\GoBack.gif" />
+    <Content Include="Images\Group.gif" />
+    <Content Include="Images\Help.gif" />
+    <Content Include="Images\Home.gif" />
+    <Content Include="Images\icon4.gif" />
+    <Content Include="Images\icon_users.gif" />
+    <Content Include="Images\Info.gif" />
+    <Content Include="Images\key.gif" />
+    <Content Include="Images\Learning.gif" />
+    <Content Include="Images\lock.gif" />
+    <Content Include="Images\lt.gif" />
+    <Content Include="Images\manager.gif" />
+    <Content Include="Images\OK.gif" />
+    <Content Include="Images\Orange_Learning.gif" />
+    <Content Include="Images\plugin.gif" />
+    <Content Include="Images\PortalSettings.gif" />
+    <Content Include="Images\printButton.png" />
+    <Content Include="Images\Properties.gif" />
+    <Content Include="Images\Publish.gif" />
+    <Content Include="Images\Question.gif" />
+    <Content Include="Images\Reset.gif" />
+    <Content Include="Images\rt.gif" />
+    <Content Include="Images\Security.gif" />
+    <Content Include="Images\Settings.gif" />
+    <Content Include="Images\SmallDownload.gif" />
+    <Content Include="Images\SmallDownload02.gif" />
+    <Content Include="Images\up.gif" />
+    <Content Include="Images\User.gif" />
+    <Content Include="Images\User_Deactive.gif" />
+    <Content Include="Images\view.gif" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -100,6 +141,13 @@
     </Compile>
     <Compile Include="DangKyThongTin.aspx.designer.cs">
       <DependentUpon>DangKyThongTin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DonDatHang.aspx.cs">
+      <DependentUpon>DonDatHang.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DonDatHang.aspx.designer.cs">
+      <DependentUpon>DonDatHang.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -123,6 +171,7 @@
     <Content Include="Content\bootstrap-grid.rtl.css.map" />
     <Content Include="Content\bootstrap-grid.min.css.map" />
     <Content Include="Content\bootstrap-grid.css.map" />
+    <Content Include="Images\Thumbs.db" />
     <None Include="packages.config" />
     <Content Include="Scripts\bootstrap.min.js.map" />
     <Content Include="Scripts\bootstrap.js.map" />
